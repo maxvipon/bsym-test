@@ -1,0 +1,7 @@
+{
+  "name": "Project fot testing bower and symlinks",
+  "version": "0.0.1",
+  "dependencies": {
+    "bsym": "git@github.com:maxvipon/bsym.git"
+  }
+}
